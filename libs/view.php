@@ -5,7 +5,7 @@ class View
 
     function __construct()
     {
-        echo "<p>Vista Base</p>";
+        //    Llama la vista
     }
 
     function render($nombre)
